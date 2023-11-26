@@ -1,5 +1,5 @@
 # Grocery-stock-management-software-
-Yogashree ra 204,rajashree ra208 and my self Kanya ra 221
+rajashree ra208 and my self Kanya ra 221
 def establishconnect():
     connectobject = db.connect("shopManagement.db")
     c = connectobject.cursor()
